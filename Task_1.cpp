@@ -3,7 +3,6 @@ using namespace std;
 
 main()
 {
-
     int angka;
     int hasil;
     cout << "Masukkan 4 Digit Angka : ";
